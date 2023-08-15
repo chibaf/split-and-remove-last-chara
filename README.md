@@ -1,4 +1,4 @@
-# split-and-remove-last-chara
+# split-string-and-remove-last-chara
 ## edit string from serial
 
 a="M1   28.1i"
